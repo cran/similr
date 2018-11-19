@@ -1,0 +1,10 @@
+056c4a75c197520c607a54727270f11e *DESCRIPTION
+d1f0d84fa0946925a650e8ea41307484 *NAMESPACE
+c391f04247f8a5e42681fa1967c962b0 *R/RcppExports.R
+937c299882693fe703457167c59bf42d *R/stringSim.R
+d0bd86c201ff44ab704e359e4b5bb344 *man/compare.Rd
+9f9352c9f810415381dc3bfa67df6f37 *man/similr-package.Rd
+f87e5c613844a36e8b8ba146fadcb5e5 *src/RcppExports.cpp
+9951c986ed054c924791048963478125 *src/StringSimilarity.cpp
+141bbd7337ad378ff382cd4979fd232a *src/StringSimilarity.h
+43140a8447e2e4eedcad1c49f6852f8f *src/StringSimilarityR.cpp
